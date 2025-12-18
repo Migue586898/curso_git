@@ -1,1 +1,1 @@
-print("Hello git!")
+print("Modificado desde local con GitHub sincronizado Hello git!")
